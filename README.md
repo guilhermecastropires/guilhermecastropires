@@ -5,7 +5,7 @@
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C6AFF&random=false&width=499&height=40&lines=Guilherme+Castro" alt="Typing SVG" />
   </a>
 
-  <img src="https://github.com/guilhermecastropires/guilhermecastropires/main/unnamed.png" width="300" align="right" style="margin-left: 15px;">
+  <img src="https://github.com/guilhermecastropires/guilhermecastropires/blob/main/pixelart.png" width="300" align="right" style="margin-left: 15px;">
 
    <p float="left">
       Desde pequeno sou interessado por tecnologia e computadores, o que me motivou a cursar Análise e Desenvolvimento de Sistemas e a desenvolver uma sólida base de conhecimento. 
