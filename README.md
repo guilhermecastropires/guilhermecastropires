@@ -2,7 +2,7 @@
 
 <p float="left">
   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C6AFF&random=false&width=499&height=40&lines=Guilherme Castro." alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C6AFF&random=false&width=499&height=40&lines=Guilherme-Castro." alt="Typing SVG" />
   </a>
 
    <p float="left">
@@ -17,7 +17,7 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />        
 </div>  
 
 ##
@@ -25,3 +25,7 @@
 <div>
   <a href="https://www.linkedin.com/in/guilhermecastropires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+
+          
