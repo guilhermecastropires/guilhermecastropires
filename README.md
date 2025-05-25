@@ -12,7 +12,7 @@
       Aos 19 anos, estou aprofundando meus estudos em Python e desenvolvimento fullstack, buscando uma oportunidade de estágio na área de TI
       <br>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecastropires&layout=compact&theme=dracula" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&theme=dracula" alt="Top Languages">
       <br>
   </p>
 
