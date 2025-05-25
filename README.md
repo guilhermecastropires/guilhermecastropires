@@ -1,16 +1,27 @@
-## Hi there 👋
+# Bem Vindo!
 
-<!--
-**guilhermecastropires/guilhermecastropires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p float="left">
+  <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C6AFF&random=false&width=499&height=40&lines=Hey%2F+I'm+Ma%C3%ADra.+I'm+into+computer+stuff." alt="Typing SVG" />
+  </a>
 
-Here are some ideas to get you started:
+   <p float="left">
+      Desde pequeno sou interessado por tecnologia e computadores, o que me motivou a cursar Análise e Desenvolvimento de Sistemas e a desenvolver uma sólida base de conhecimento. 
+      Aos 19 anos, estou aprofundando meus estudos em Python e desenvolvimento fullstack, buscando uma oportunidade de estágio na área de TI.
+      <br>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecastropires&layout=compact&theme=dracula" alt="Top Languages">
+      <br>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>  
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/guilhermecastropires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
