@@ -2,7 +2,7 @@
 
 <p float="left">
   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C6AFF&random=false&width=499&height=40&lines=Bem%2Vindo." alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C6AFF&random=false&width=499&height=40&lines=Guilherme Castro." alt="Typing SVG" />
   </a>
 
    <p float="left">
