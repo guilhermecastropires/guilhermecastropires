@@ -9,7 +9,7 @@
 
    <p float="left">
       Desde pequeno sou interessado por tecnologia e computadores, o que me motivou a cursar Análise e Desenvolvimento de Sistemas e a desenvolver uma sólida base de conhecimento. 
-      Aos 19 anos, estou aprofundando meus estudos em Java e desenvolvimento Backend, buscando uma oportunidade de estágio na área de TI
+      Aos 19 anos, estou aprofundando meus estudos em .NET e desenvolvimento Backend, atualmente sou estagiario de desenvolvimento de software na STT Digital.
       <br>
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecastropires&layout=compact&theme=dark" alt="Top Languages">
